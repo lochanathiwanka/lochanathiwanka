@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![MasterHead](https://drive.google.com/file/d/1xiMgzvDfgFB3DWH3rc76ptjzog7B3OPO/view?usp=sharing)](https://lochanathiwanka.000webhostapp.com/)
+[![MasterHead](https://raw.githubusercontent.com/lochanathiwanka/assests_for_github_profile/main/lochanathiwanka.jpg?token=AM6N3X2O76NAY6QDONTQFU3AODNNQ)](https://lochanathiwanka.000webhostapp.com/)
 <h1 align="center">Hi 👋, I'm Lochana Thiwanka</h1>
 <h3 align="center">A Boy trying to Figure-Out Stuff!!</h3>
 
