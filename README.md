@@ -3,7 +3,7 @@
 <h3 align="center">A Boy trying to Figure-Out Stuff!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /> </p>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/lochanathiwanka/assests_for_github_profile/main/undraw_a_moment_to_relax_bbpa.svg?token=AM6N3X4VBWYJPH4SAUDEYYDAODNSC">
+<img align="right" alt="Coding" width="400" src="https://i.ibb.co/KG7Yk0J/3255337.jpg">
 
 - 👨‍💻 You can also check out my portfolio at [https://lochanathiwanka.000webhostapp.com//](https://lochanathiwanka.000webhostapp.com/)
 
