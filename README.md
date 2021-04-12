@@ -97,4 +97,4 @@ Hey! I'm Lochana Thiwanka, a 21 year old FullStack Java & Web developer from Pan
 <a href="https://twitter.com/Lochanathiwanka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="40" /></a>
 <a href="https://www.freelancer.com/u/lochana321" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freelancer.svg" alt="freelancer" height="30" width="40" /></a>
 </p>
-<img align="left" alt="Coding" height="600" width="600" src="https://i.ibb.co/QcnZRb4/3255337.jpg">
+<img align="left" alt="Coding" width="600" src="https://i.ibb.co/B4B5cHm/4548450.jpg">
