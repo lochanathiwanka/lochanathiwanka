@@ -30,32 +30,32 @@ Hey! I'm Lochana Thiwanka, a 21 year old FullStack Java & Web developer from Pan
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Docker</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
+<span><b><center>HTML5</center></b></span> 
+<img height=60px src="https://i.ibb.co/FqKdZcL/html5-logo.png"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Flask</center></b></span> 
-<img height=65px src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"> 
+<span><b><center>jQuery</center></b></span> 
+<img height=65px src="https://i.ibb.co/5nm9m3s/jquery-logo.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
-<img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
+<span><b><center>React</center></b></span> 
+<img height=65px src="https://i.ibb.co/kyy62Pg/react-logo.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Jenkins</center></b></span> 
-<img height=65px src="https://www.devteam.space/wp-content/uploads/2018/03/jenkins.jpg"> 
+<span><b><center>CSS3</center></b></span> 
+<img height=65px src="https://i.ibb.co/zhyPgMr/css-logo.png"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Kubernetes</center></b></span> 
-<img height=65px src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/05/Kubernetes_New.png"> 
+<span><b><center>Spring</center></b></span> 
+<img height=65px src="https://i.ibb.co/WHgg9N4/spring-logo.png"> 
 </td>
 
 <td align="center" width="20%">
