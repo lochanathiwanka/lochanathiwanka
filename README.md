@@ -55,7 +55,7 @@ Hey! I'm Lochana Thiwanka, a 21 year old FullStack Java & Web developer from Pan
 <tr>
 <td align="center" width="20%">
 <span><b><center>Spring</center></b></span> 
-<img height=65px src="https://i.ibb.co/WHgg9N4/spring-logo.png"> 
+<img height=65px src="https://i.ibb.co/XJZ37mJ/spring-logo.png"> 
 </td>
 
 <td align="center" width="20%">
