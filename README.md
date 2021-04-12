@@ -7,8 +7,6 @@ Hey! I'm Lochana Thiwanka, a 21 year old FullStack Java & Web developer from Pan
 <img src="https://badges.pufler.dev/visits/M4cs/M4cs">
 <img src="https://badges.pufler.dev/years/M4cs">
 
-<img align="right" alt="Coding" width="400" src="https://i.ibb.co/QcnZRb4/3255337.jpg">
-
 - 👨‍💻 You can also check out my portfolio at [https://lochanathiwanka.000webhostapp.com//](https://lochanathiwanka.000webhostapp.com/)
 
 - 📫 How to reach me **lochanathiwanka62@gmail.com**
