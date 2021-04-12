@@ -11,10 +11,9 @@ Hey! I'm Lochana Thiwanka, a 21 year old FullStack Java & Web developer from Pan
 
 - 📫 How to reach me **lochanathiwanka62@gmail.com**
 
-- ⚡**I am a Fullstack Java & Web Developer**
-
 <img align="left" alt="Coding" width="400" src="https://i.ibb.co/QcnZRb4/3255337.jpg">
-<br/>
+
+- ⚡**I am a Fullstack Java & Web Developer**
 
 ## Tech Stack :computer:
 
