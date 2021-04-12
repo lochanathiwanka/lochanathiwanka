@@ -25,8 +25,8 @@ Hey! I'm Lochana Thiwanka, a 21 year old FullStack Java & Web developer from Pan
 </td>
 
 <td align="center" width="20%">
-<span><b><center>AWS</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQV9AyEyvrlIJLOfbxFLfOr03Qy5gRL0txWMQ&usqp=CAU"> 
+<span><b><center>JavaScript</center></b></span> 
+<img height=60px src="https://i.ibb.co/373zL60/javascript-logo.png"> 
 </td>
 
 <td align="center" width="20%">
