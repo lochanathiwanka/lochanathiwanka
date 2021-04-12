@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **lochanathiwanka62@gmail.com**
 
-- ⚡ Fun fact **I am a Fullstack Java & Web Developer**
+- ⚡**I am a Fullstack Java & Web Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
