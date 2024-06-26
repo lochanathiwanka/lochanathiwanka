@@ -11,7 +11,7 @@ Hey! I'm Lochana Thiwanka, a passionate Fullstack Software Engineer with a focus
 
 - 📫 How to reach me **lochanathiwanka62@gmail.com**
 
-- ⚡**I am a Fullstack Java & Web Developer**
+- ⚡**I am a Fullstack Software Developer**
 
 ## Tech Stack :computer:
 
